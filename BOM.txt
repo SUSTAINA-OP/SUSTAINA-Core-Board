@@ -1,0 +1,22 @@
+Qty Value                                      Device                                     Package                                    Parts                               Description                
+2   0                                          R-US_R0603                                 R0603                                      R9, R10                             RESISTOR, American symbol  
+9   0.1u                                       C-USC0603                                  C0603                                      C1, C2, C4, C5, C6, C7, C8, C9, C10 CAPACITOR, American symbol 
+6   10k                                        R-US_R0603                                 R0603                                      R11, R12, R13, R14, R15, R16        RESISTOR, American symbol  
+2   1180k                                      R-US_R0603                                 R0603                                      R3, R6                              RESISTOR, American symbol  
+1   1n                                         C-USC0603                                  C0603                                      C3                                  CAPACITOR, American symbol 
+4   2k                                         R-US_R0603                                 R0603                                      R1, R2, R17, R18                    RESISTOR, American symbol  
+2   34k                                        R-US_R0603                                 R0603                                      R4, R7                              RESISTOR, American symbol  
+4   3557-2                                     3557-2                                     3557-2                                     F1, F2, F3, F4                                                 
+4   35PFV150M8X10.5                            35PFV150M8X10.5                            35PFV150M8X10.5                            C11, C12, C13, C14                                             
+2   86.6k                                      R-US_R0603                                 R0603                                      R5, R8                              RESISTOR, American symbol  
+5   B2B-XH-A                                   B2B-XH-A                                   B2B-XH-A                                   CH3, CH4, CH5, CH6, CH7                                        
+2   BAT54J,115                                 BAT54J,115                                 SOD-323-2                                  D1, D2                                                         
+1   BUCK-BOOST-SWITCH-MODE-POWER-SUPPLY-MODULE BUCK-BOOST-SWITCH-MODE-POWER-SUPPLY-MODULE BUCK-BOOST-SWITCH-MODE-POWER-SUPPLY-MODULE M3                                                             
+4   Green                                      LEDSML0603                                 SML0603                                    LED1, LED2, LED3, LED4              LED                        
+1   HIF3FC-14PA-2.54DSA(71)                    HIF3FC-14PA-2.54DSA(71)                    HIF3FC-14PA-2.54DSA(71)                    CH9                                                            
+1   LTC4418IUF                                 LTC4418IUF                                 LTC4418IUF                                 IC1                                                            
+4   POWER-MONITOR-MODULE                       POWER-MONITOR-MODULE                       POWER-MONITOR-MODULE                       M1, M2, M4, M5                                                 
+4   S4B-XH-A                                   S4B-XH-A                                   S4B-XH-A                                   CH10, CH11, CH12, CH13                                         
+6   SUM110P06-08L-E3                           SUM110P06-08L-E3                           TO-252-3                                   Q1, Q2, Q3, Q4, Q5, Q6                                         
+1   XT30PW-F                                   XT30PW-F                                   XT30PW-F                                   CH8                                                            
+2   XT60PW-M                                   XT60PW-M                                   XT60PW-M                                   CH1, CH2                                                       
