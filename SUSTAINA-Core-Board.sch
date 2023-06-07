@@ -10916,18 +10916,25 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0" drill="0">
+<clearance class="0" value="0.127"/>
 </class>
-<class number="1" name="signal" width="0.127" drill="0">
+<class number="1" name="signal" width="0.2032" drill="0">
+<clearance class="1" value="0.127"/>
 </class>
 <class number="2" name="power" width="0.254" drill="0">
+<clearance class="2" value="0.127"/>
 </class>
-<class number="3" name="low-power" width="0" drill="0">
+<class number="3" name="low-power" width="0.2032" drill="0">
+<clearance class="3" value="0.127"/>
 </class>
 <class number="4" name="power_signal" width="0.2032" drill="0">
+<clearance class="4" value="0.127"/>
 </class>
 <class number="5" name="middle_power" width="0.508" drill="0">
+<clearance class="5" value="0.127"/>
 </class>
 <class number="6" name="low_power" width="0.2032" drill="0">
+<clearance class="6" value="0.127"/>
 </class>
 </classes>
 <parts>
