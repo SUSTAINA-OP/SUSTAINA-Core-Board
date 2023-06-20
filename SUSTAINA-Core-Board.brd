@@ -3573,7 +3573,7 @@ Source: http://www.ledtronics.com/ds/smd-0603/Dstr0092.pdf</description>
 </signal>
 </signals>
 <mfgpreviewcolors>
-<mfgpreviewcolor name="soldermaskcolor" color="0xC8000000"/>
+<mfgpreviewcolor name="soldermaskcolor" color="0xC8AA0000"/>
 <mfgpreviewcolor name="silkscreencolor" color="0xFFFEFEFE"/>
 <mfgpreviewcolor name="backgroundcolor" color="0xFF282828"/>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
