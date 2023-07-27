@@ -10,6 +10,10 @@
     <p><strong>This product is currently under development!</strong></p>
 	<h1>SUSTAINA Core Board</h1>
         <p>
+			This product is the core electronic board of the open hardware platform humanoid robot SUSTAINA-OP<sup>TM</sup>.
+			This product requires multiple modules(4 x <a href="https://github.com/SUSTAINA-OP/Power-Monitor-Module">Power Monitor Module</a> and 1 x <a href="https://github.com/SUSTAINA-OP/Buck-Boost-Switch-Mode-Power-Supply-Module">Buck-Boost Switch Mode Power Supply Module</a>) to work. The board automatically selects a priority power source from two battery inputs within the operating voltage range to supply various devices. The power input and output are equipped with short-circuit protection circuits using fuses. In addition, the battery input has multiple MOSFETs to prevent reverse connection and reverse current. The power supply to the actuator and single-board computer can be turned on and off with the load switch circuit.<br>
+			<br>
+			Rev. 1 of this product is used by <a href="https://github.com/citbrains">CIT Brains</a>, a participant in RoboCup2023 Soccer Humanoid League KidSize.
         </p>
 	<h2>Features Rev. 1</h2>
         <p>
