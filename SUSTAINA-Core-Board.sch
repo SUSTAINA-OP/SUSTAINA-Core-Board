@@ -70,7 +70,7 @@
 <layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="92" name="Busses" color="1" fill="1" visible="no" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
@@ -10956,7 +10956,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1u"/>
+<part name="C9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1u"/>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="2k"/>
 <part name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0603" package3d_urn="urn:adsk.eagle:package:15832/1" value="Green"/>
@@ -10979,22 +10979,22 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <part name="R14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
-<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1u"/>
+<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1u"/>
 <part name="R16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
 <part name="GND11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
 <part name="R12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
-<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1u"/>
-<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1u"/>
+<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1u"/>
+<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1u"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1180k"/>
-<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="34k"/>
-<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="86.6k"/>
+<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="18k"/>
+<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="2k"/>
+<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="GND18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1180k"/>
-<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="34k"/>
-<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="86.6k"/>
+<part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="18k"/>
+<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="2k"/>
+<part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1u"/>
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1u"/>
@@ -11106,6 +11106,37 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <text x="43.18" y="78.74" size="2.54" layer="97" align="top-left">Power Supply</text>
 <text x="91.44" y="78.74" size="2.54" layer="97" align="top-left">Power Sensing</text>
 <text x="45.72" y="7.62" size="2.54" layer="97" align="top-left">Power Sensing</text>
+<text x="261.62" y="233.68" size="2.54" layer="97" align="center-left">&lt;DNP
+　and needs to be shorted.</text>
+<wire x1="243.84" y1="238.76" x2="243.84" y2="226.06" width="0.1524" layer="97"/>
+<wire x1="243.84" y1="226.06" x2="261.62" y2="226.06" width="0.1524" layer="97"/>
+<wire x1="261.62" y1="226.06" x2="261.62" y2="238.76" width="0.1524" layer="97"/>
+<wire x1="261.62" y1="238.76" x2="243.84" y2="238.76" width="0.1524" layer="97"/>
+<wire x1="274.32" y1="261.62" x2="274.32" y2="243.84" width="0.1524" layer="97"/>
+<wire x1="274.32" y1="243.84" x2="284.48" y2="243.84" width="0.1524" layer="97"/>
+<wire x1="284.48" y1="243.84" x2="284.48" y2="261.62" width="0.1524" layer="97"/>
+<wire x1="284.48" y1="261.62" x2="274.32" y2="261.62" width="0.1524" layer="97"/>
+<text x="284.48" y="254" size="2.54" layer="97" align="center-left">&lt;DNP</text>
+<wire x1="259.08" y1="241.3" x2="274.32" y2="241.3" width="0.1524" layer="97"/>
+<wire x1="274.32" y1="210.82" x2="274.32" y2="193.04" width="0.1524" layer="97"/>
+<wire x1="274.32" y1="193.04" x2="284.48" y2="193.04" width="0.1524" layer="97"/>
+<wire x1="284.48" y1="193.04" x2="284.48" y2="210.82" width="0.1524" layer="97"/>
+<wire x1="284.48" y1="210.82" x2="274.32" y2="210.82" width="0.1524" layer="97"/>
+<text x="284.48" y="203.2" size="2.54" layer="97" align="center-left">&lt;DNP</text>
+<text x="261.62" y="185.42" size="2.54" layer="97" align="center-left">&lt;DNP
+　and needs to be shorted.</text>
+<wire x1="243.84" y1="190.5" x2="243.84" y2="177.8" width="0.1524" layer="97"/>
+<wire x1="243.84" y1="177.8" x2="261.62" y2="177.8" width="0.1524" layer="97"/>
+<wire x1="261.62" y1="177.8" x2="261.62" y2="190.5" width="0.1524" layer="97"/>
+<wire x1="261.62" y1="190.5" x2="243.84" y2="190.5" width="0.1524" layer="97"/>
+<text x="165.1" y="185.42" size="2.54" layer="97" align="top-left">Actual Thresholds by Resistor Network
+UV: Fall 7V, Rise 7.21V
+OV: Fall 20.37, Rise 21V</text>
+<text x="187.96" y="20.32" size="2.54" layer="97" align="center-left">&lt;DNP</text>
+<wire x1="144.78" y1="27.94" x2="144.78" y2="10.16" width="0.1524" layer="97"/>
+<wire x1="144.78" y1="10.16" x2="187.96" y2="10.16" width="0.1524" layer="97"/>
+<wire x1="187.96" y1="10.16" x2="187.96" y2="27.94" width="0.1524" layer="97"/>
+<wire x1="187.96" y1="27.94" x2="144.78" y2="27.94" width="0.1524" layer="97"/>
 </plain>
 <instances>
 <instance part="C11" gate="G$1" x="149.86" y="20.32" smashed="yes" rot="R270">
@@ -11168,8 +11199,8 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <attribute name="NAME" x="326.136" y="247.015" size="1.778" layer="95"/>
 <attribute name="VALUE" x="326.136" y="242.189" size="1.778" layer="96"/>
 </instance>
-<instance part="GND7" gate="1" x="165.1" y="7.62" smashed="yes">
-<attribute name="VALUE" x="162.56" y="5.08" size="1.778" layer="96"/>
+<instance part="GND7" gate="1" x="165.1" y="5.08" smashed="yes">
+<attribute name="VALUE" x="162.56" y="2.54" size="1.778" layer="96"/>
 </instance>
 <instance part="R17" gate="G$1" x="160.02" y="101.6" smashed="yes" rot="R90">
 <attribute name="NAME" x="158.5214" y="97.79" size="1.778" layer="95" rot="R90"/>
@@ -11518,7 +11549,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <pinref part="C12" gate="G$1" pin="-"/>
 <wire x1="160.02" y1="15.24" x2="160.02" y2="12.7" width="0.1524" layer="91"/>
 <junction x="160.02" y="12.7"/>
-<wire x1="165.1" y1="12.7" x2="165.1" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="12.7" x2="165.1" y2="7.62" width="0.1524" layer="91"/>
 <junction x="165.1" y="12.7"/>
 <pinref part="GND7" gate="1" pin="GND"/>
 </segment>
@@ -12130,12 +12161,12 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <net name="G2_" class="4">
 <segment>
 <pinref part="R12" gate="G$1" pin="1"/>
-<wire x1="246.38" y1="180.34" x2="246.38" y2="177.8" width="0.1524" layer="91"/>
-<wire x1="259.08" y1="182.88" x2="259.08" y2="177.8" width="0.1524" layer="91"/>
-<wire x1="259.08" y1="177.8" x2="246.38" y2="177.8" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="175.26" x2="246.38" y2="177.8" width="0.1524" layer="91"/>
-<junction x="246.38" y="177.8"/>
-<label x="246.38" y="175.26" size="1.778" layer="95" rot="R270"/>
+<wire x1="246.38" y1="180.34" x2="246.38" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="259.08" y1="182.88" x2="259.08" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="259.08" y1="175.26" x2="246.38" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="172.72" x2="246.38" y2="175.26" width="0.1524" layer="91"/>
+<junction x="246.38" y="175.26"/>
+<label x="246.38" y="172.72" size="1.778" layer="95" rot="R270"/>
 <pinref part="D2" gate="G$1" pin="A"/>
 </segment>
 <segment>
@@ -12147,12 +12178,12 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <net name="G1_" class="4">
 <segment>
 <pinref part="R11" gate="G$1" pin="1"/>
-<wire x1="246.38" y1="228.6" x2="246.38" y2="226.06" width="0.1524" layer="91"/>
-<wire x1="259.08" y1="231.14" x2="259.08" y2="226.06" width="0.1524" layer="91"/>
-<wire x1="259.08" y1="226.06" x2="246.38" y2="226.06" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="226.06" x2="246.38" y2="223.52" width="0.1524" layer="91"/>
-<junction x="246.38" y="226.06"/>
-<label x="246.38" y="223.52" size="1.778" layer="95" rot="R270"/>
+<wire x1="246.38" y1="228.6" x2="246.38" y2="223.52" width="0.1524" layer="91"/>
+<wire x1="259.08" y1="231.14" x2="259.08" y2="223.52" width="0.1524" layer="91"/>
+<wire x1="259.08" y1="223.52" x2="246.38" y2="223.52" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="223.52" x2="246.38" y2="220.98" width="0.1524" layer="91"/>
+<junction x="246.38" y="223.52"/>
+<label x="246.38" y="220.98" size="1.778" layer="95" rot="R270"/>
 <pinref part="D1" gate="G$1" pin="A"/>
 </segment>
 <segment>
@@ -12374,9 +12405,9 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <pinref part="C11" gate="G$1" pin="+"/>
 <wire x1="149.86" y1="25.4" x2="149.86" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="30.48" x2="160.02" y2="30.48" width="0.1524" layer="91"/>
+<label x="149.86" y="33.02" size="1.778" layer="95" rot="R90"/>
 <wire x1="149.86" y1="30.48" x2="149.86" y2="33.02" width="0.1524" layer="91"/>
 <junction x="149.86" y="30.48"/>
-<label x="149.86" y="33.02" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <wire x1="312.42" y1="104.14" x2="332.74" y2="104.14" width="0.1524" layer="91"/>

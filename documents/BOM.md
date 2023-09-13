@@ -19,7 +19,7 @@
                     <th>Part Detail</th>
                 </tr>
                 <tr>
-                    <td>C1, C2, C4, C5, C6, C7, C8</td>
+                    <td>C1, C2, C4, C7, C8, C9, C10</td>
                     <td>GCM188L81H104K57</td>
                     <td><a href="https://akizukidenshi.com/catalog/g/gP-16143/">Akizuki / P-16143</a></td>
                     <td>Murata Electronics</td>
@@ -33,18 +33,11 @@
                     <td>Multilayer Ceramic Capacitor SMD 1nF 100V ±10% X7R 0603</td>
                 </tr>
                 <tr>
-                    <td>C9, C10</td>
+                    <td>C5, C6</td>
                     <td>GRM188C81E105KA12</td>
                     <td><a href="https://akizukidenshi.com/catalog/g/gP-16993/">Akizuki / P-16993</a></td>
                     <td>Murata Electronics</td>
                     <td>Multilayer Ceramic Capacitor SMD 1uF 25V ±10% X6S 0603</td>
-                </tr>
-                <tr>
-                    <td>C11, C12, C13, C14</td>
-                    <td>35PFV150M8X10.5</td>
-                    <td><a href="https://akizukidenshi.com/catalog/g/gP-14492/">Akizuki / P-14492</a></td>
-                    <td>Rubycon</td>
-                    <td>Aluminum Organic Polymer Capacitor SMD 150uF 35V 20% PFV AEC-Q200</td>
                 </tr>
                 <tr>
                     <td>CH1, CH2</td>
@@ -80,13 +73,6 @@
                     <td><a href="https://akizukidenshi.com/catalog/g/gC-12842/">Akizuki / C-12842</a></td>
                     <td><a href="https://www.jst-mfg.com/product/pdf/eng/eXH.pdf">JST</a></td>
                     <td>XH Connector Header 2.5mm-pitch 4-position Side Entry</td>
-                </tr>
-                <tr>
-                    <td>D1, D2</td>
-                    <td>BAT54J,115</td>
-                    <td><a href="https://www.mouser.jp/ProductDetail/771-BAT54J115">Mouser / 771-BAT54J115</a></td>
-                    <td>Nexperia</td>
-                    <td>Schottky barrier single diode SMD 30V 200mA SOD323F</td>
                 </tr>
                 <tr>
                     <td>F1, F2, F3, F4</td>
@@ -131,7 +117,7 @@
                     <td>P-channel MOSFET SMD 60V 110A 272W 8.0Ω TO-263-3</td>
                 </tr>
                 <tr>
-                    <td>R1, R2, R17, R18, R19</td>
+                    <td>R1, R2, R4, R7, R17, R18, R19</td>
                     <td>RC0603FR-102KL</td>
                     <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-102KL">Mouser / 603-RC0603FR-102KL</a></td>
                     <td>YAGEO</td>
@@ -139,24 +125,17 @@
                 </tr>
                 <tr>
                     <td>R3, R6</td>
-                    <td>RC0603FR-071M18L</td>
-                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-071M18L">Mouser / 603-RC0603FR-071M18L</a></td>
+                    <td>RC0603FR-1018KL</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-1018KL">Mouser / 603-RC0603FR-1018KL</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 1180Ω 1/10W ±1% 0603</td>
-                </tr>
-                <tr>
-                    <td>R4, R7</td>
-                    <td>RC0603FR-0734KL</td>
-                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-0734KL">Mouser / 603-RC0603FR-0734KL</a></td>
-                    <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 34kΩ 1/10W ±1% 0603</td>
+                    <td>Thick Film Resistor SMD 18kΩ 1/10W ±1% 0603</td>
                 </tr>
                 <tr>
                     <td>R5, R8</td>
-                    <td>RC0603FR-078K66L</td>
-                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-078K66L">Mouser / 603-RC0603FR-078K66L</a></td>
+                    <td>RC0603FR-101KL</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-101KL">Mouser / 603-RC0603FR-101KL</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 86.6kΩ 1/10W ±1% 0603</td>
+                    <td>Thick Film Resistor SMD 1kΩ 1/10W ±1% 0603</td>
                 </tr>
                 <tr>
                     <td>R9, R10</td>
@@ -166,7 +145,38 @@
                     <td>Thick Film Resistor SMD 0Ω 1/10W ±1% 0603</td>
                 </tr>
                 <tr>
-                    <td>R11, R12, R13, R14, R15, R16</td>
+                    <td>R13, R14, R15, R16</td>
+                    <td>RC0603FR-1010KL</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-1010KL">Mouser / 603-RC0603FR-1010KL</a></td>
+                    <td>YAGEO</td>
+                    <td>Thick Film Resistor SMD 10kΩ 1/10W ±1% 0603</td>
+                </tr>
+            </table>
+            The following are electronic components of DNP (Do Not Populate).
+            <table>
+                <tr>
+                    <th>Top Designator</th>
+                    <th>MFR.Part #</th>
+                    <th>Distributor / Part #</th>
+                    <th>Manufacturer</th>
+                    <th>Part Detail</th>
+                </tr>
+                <tr>
+                    <td>C11, C12, C13, C14</td>
+                    <td>35PFV150M8X10.5</td>
+                    <td><a href="https://akizukidenshi.com/catalog/g/gP-14492/">Akizuki / P-14492</a></td>
+                    <td>Rubycon</td>
+                    <td>Aluminum Organic Polymer Capacitor SMD 150uF 35V 20% PFV AEC-Q200</td>
+                </tr>
+                <tr>
+                    <td>D1, D2</td>
+                    <td>BAT54J,115</td>
+                    <td><a href="https://www.mouser.jp/ProductDetail/771-BAT54J115">Mouser / 771-BAT54J115</a></td>
+                    <td>Nexperia</td>
+                    <td>Schottky barrier single diode SMD 30V 200mA SOD323F</td>
+                </tr>
+                <tr>
+                    <td>R11, R12</td>
                     <td>RC0603FR-1010KL</td>
                     <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-1010KL">Mouser / 603-RC0603FR-1010KL</a></td>
                     <td>YAGEO</td>
@@ -176,3 +186,4 @@
         </p>
 </body>
 </html>
+
