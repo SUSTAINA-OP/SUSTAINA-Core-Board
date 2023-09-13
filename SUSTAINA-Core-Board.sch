@@ -11087,7 +11087,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/</text>
 <wire x1="304.8" y1="147.32" x2="304.8" y2="297" width="0.1524" layer="97" style="longdash"/>
 <text x="284.48" y="152.4" size="1.778" layer="97" ratio="10" align="center">Connecter for Voltmeter (Option)</text>
 <wire x1="287.02" y1="45.72" x2="287.02" y2="147.32" width="0.1524" layer="97" style="longdash"/>
-<text x="391.16" y="15.24" size="5.08" layer="94" ratio="10" align="center-left">1</text>
+<text x="391.16" y="15.24" size="5.08" layer="94" ratio="10" align="center-left">1.1</text>
 <text x="396.24" y="5.08" size="5.08" layer="94" ratio="10" align="center-left">1/1</text>
 <text x="309.88" y="5.08" size="5.08" layer="94" ratio="10" align="center-left">June 12, 2023</text>
 <text x="307.34" y="25.4" size="5.08" layer="94" ratio="10" align="center-left">SUSTAINA Core Board</text>
